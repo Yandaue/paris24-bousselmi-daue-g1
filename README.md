@@ -1,2 +1,2 @@
 # paris24-bousselmi-daue-g1
-Sylvain Bellenger / Louis Brunet / Yan Daue
+Sylvain BELLENGER / Louis BRUNET / Yan DAUE

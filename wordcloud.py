@@ -11,10 +11,10 @@ Original file is located at
 # author: Daue
 # state: ongoing
 
-# exercise 1
+# exercise 2
 # author: BS
 # state: ongoing
 
-# exercise 1
+# exercise 3
 # author: BL
 # state: ongoing
